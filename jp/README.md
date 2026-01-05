@@ -6,11 +6,12 @@ Engineering Ladder 日本語版
 
 > **注記:** このドキュメントは各グレードで期待される**行動規範**を定義しています。技術スキルや専門性については別途**スキルラダー**が存在します。
 
-| | G1 | G2 | G3 | G4 | G5 | G6 |
-|-|-|-|-|-|-|-|
-| Bold Challenges | [✓](G1.md#bold-challenges) | [✓](G2.md#bold-challenges) | [✓](G3.md#bold-challenges) | [✓](G4.md#bold-challenges) | [✓](G5.md#bold-challenges) | [✓](G6.md#bold-challenges) |
-| Vision | [✓](G1.md#vision) | [✓](G2.md#vision) | [✓](G3.md#vision) | [✓](G4.md#vision) | [✓](G5.md#vision) | [✓](G6.md#vision) |
-| Priorities / Direction | [✓](G1.md#priorities--direction) | [✓](G2.md#priorities--direction) | [✓](G3.md#priorities--direction) | [✓](G4.md#priorities--direction) | [✓](G5.md#priorities--direction) | [✓](G6.md#priorities--direction) |
-| Teamwork | [✓](G1.md#teamwork) | [✓](G2.md#teamwork) | [✓](G3.md#teamwork) | [✓](G4.md#teamwork) | [✓](G5.md#teamwork) | [✓](G6.md#teamwork) |
-| Ownership | [✓](G1.md#ownership) | [✓](G2.md#ownership) | [✓](G3.md#ownership) | [✓](G4.md#ownership) | [✓](G5.md#ownership) | [✓](G6.md#ownership) |
-| Expertise | [✓](G1.md#expertise) | [✓](G2.md#expertise) | [✓](G3.md#expertise) | [✓](G4.md#expertise) | [✓](G5.md#expertise) | [✓](G6.md#expertise) |
+| | G1 | G2 | G3 (Lead級) | G4 (Tech Lead級) | G5 (CXO級) |
+|-|-|-|-|-|-|
+| Commending Bold Challenges | [✓](G1.md#commending-bold-challenges) | [✓](G2.md#commending-bold-challenges) | [✓](G3.md#commending-bold-challenges) | [✓](G4.md#commending-bold-challenges) | [✓](G5.md#commending-bold-challenges) |
+| Vision | [✓](G1.md#vision) | [✓](G2.md#vision) | [✓](G3.md#vision) | [✓](G4.md#vision) | [✓](G5.md#vision) |
+| Focus on the Mission | [✓](G1.md#focus-on-the-mission) | [✓](G2.md#focus-on-the-mission) | [✓](G3.md#focus-on-the-mission) | [✓](G4.md#focus-on-the-mission) | [✓](G5.md#focus-on-the-mission) |
+| Teamwork | [✓](G1.md#teamwork) | [✓](G2.md#teamwork) | [✓](G3.md#teamwork) | [✓](G4.md#teamwork) | [✓](G5.md#teamwork) |
+| Professionalism | [✓](G1.md#professionalism) | [✓](G2.md#professionalism) | [✓](G3.md#professionalism) | [✓](G4.md#professionalism) | [✓](G5.md#professionalism) |
+| Continued Learning | [✓](G1.md#continued-learning) | [✓](G2.md#continued-learning) | [✓](G3.md#continued-learning) | [✓](G4.md#continued-learning) | [✓](G5.md#continued-learning) |
+| Move Fast for Engineers | [✓](G1.md#move-fast-for-engineers) | [✓](G2.md#move-fast-for-engineers) | [✓](G3.md#move-fast-for-engineers) | [✓](G4.md#move-fast-for-engineers) | [✓](G5.md#move-fast-for-engineers) |

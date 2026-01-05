@@ -17,10 +17,9 @@
 |---------|------|
 | [G1](#g1) | エントリーレベルエンジニア |
 | [G2](#g2) | 自律的な貢献者 |
-| [G3](#g3) | チームレベルのリーダー |
-| [G4](#g4) | 複数チームにまたがるリーダー |
-| [G5](#g5) | カンパニー全体のリーダー |
-| [G6](#g6) | グループ全体のリーダー |
+| [G3](#g3) | Lead級（Mobile Lead, Operation Lead等） |
+| [G4](#g4) | Tech Lead級 |
+| [G5](#g5) | CXO級（CTO, VPoE等） |
 
 
 ## G1
@@ -73,26 +72,14 @@
 
 ## G5
 
-組織レベルのインパクトを推進するカンパニー全体のリーダー。
+CXO級（CTO, VPoE等）の経営層ポジション。会社全体に影響を与えるリーダー。
 
-- プロダクトや組織に影響を与える革新的なソリューションを生み出している
-- リスクを恐れて行動しない状況から抜け出すことをカンパニー全体に後押ししている
+- プロダクトや組織全体に影響を与える革新的なソリューションを生み出している
+- リスクを恐れて行動しない状況から抜け出すことを会社全体に後押ししている
 - 前例がなく難易度の高い状況でもチャレンジをリードしている
-- 開発言語、フレームワーク、ライブラリー、デザインパターンのエキスパートである
+- アーキテクトとして認知されており、ソフトウェアデザインのエキスパートである
 
 [詳細はこちら（日本語）](jp/G5.md) | [Full details (English)](en/G5.md)
-
-
-## G6
-
-グループ内の複数カンパニーに影響を与えるグループ全体のリーダー。
-
-- 前例がないようなソリューションやアイデアを考え、変革を起こせる
-- 失敗から学ぶ姿勢をカンパニーを超えて促進している
-- カンパニーを超えた技術的チャレンジを推進している
-- アーキテクトとしてグループ内で幅広く認知されており、ソフトウェアデザインのエキスパートである
-
-[詳細はこちら（日本語）](jp/G6.md) | [Full details (English)](en/G6.md)
 
 
 ---
@@ -116,10 +103,9 @@ The Engineering Ladder is only one piece of a larger initiative to promote engin
 |-------|-------------|
 | [G1](#g1-english) | Entry level engineer |
 | [G2](#g2-english) | Independent contributor |
-| [G3](#g3-english) | Team-level leader |
-| [G4](#g4-english) | Cross-team leader |
-| [G5](#g5-english) | Company-wide leader |
-| [G6](#g6-english) | Group-wide leader |
+| [G3](#g3-english) | Lead Level (Mobile Lead, Operation Lead, etc.) |
+| [G4](#g4-english) | Tech Lead Level |
+| [G5](#g5-english) | CXO Level (CTO, VPoE, etc.) |
 
 
 ## G1 (English)
@@ -172,26 +158,14 @@ Cross-team leader who influences multiple teams and product/division goals.
 
 ## G5 (English)
 
-Company-wide leader who drives organization-level impact.
+CXO Level (CTO, VPoE, etc.) executive position. Company-wide leader who drives organization-level impact.
 
-- Creates innovative solutions that impact products and organization
+- Creates innovative solutions that impact products and the entire organization
 - Promotes action over inaction due to fear of risk across the company
 - Leads challenges that are unprecedented and highly difficult
-- Is an expert in development languages, frameworks, libraries, and design patterns
+- Is recognized as an architect and software design expert
 
 [詳細はこちら（日本語）](jp/G5.md) | [Full details (English)](en/G5.md)
-
-
-## G6 (English)
-
-Group-wide leader who influences across companies in the group.
-
-- Creates unprecedented solutions and ideas, driving transformation
-- Promotes the importance of taking action and learning from failure beyond the company
-- Leads technical challenges across companies in the group
-- Is recognized as a software design expert across the group
-
-[詳細はこちら（日本語）](jp/G6.md) | [Full details (English)](en/G6.md)
 
 
 ---
