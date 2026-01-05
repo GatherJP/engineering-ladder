@@ -17,8 +17,8 @@
 |---------|------|
 | [G1](#g1) | エントリーレベルエンジニア |
 | [G2](#g2) | 自律的な貢献者 |
-| [G3](#g3) | Lead級（Mobile Lead, Operation Lead等） |
-| [G4](#g4) | Tech Lead級 |
+| [G3](#g3) | 部署Lead級（Mobile Lead, Operation Lead等） |
+| [G4](#g4) | 全体Lead級（Tech Lead等） |
 | [G5](#g5) | CXO級（CTO, VPoE等） |
 
 
